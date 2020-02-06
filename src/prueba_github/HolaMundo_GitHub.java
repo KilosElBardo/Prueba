@@ -6,6 +6,8 @@ public class HolaMundo_GitHub {
 		// TODO Apéndice de método generado automáticamente
 
 		System.out.println("Hola Mundo");
+		System.out.println("¿Cómo estás?");
+		System.out.println("Yo bien");
 	}
 
 }
